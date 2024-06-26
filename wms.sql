@@ -111,7 +111,7 @@ CREATE TABLE `garbageinfo` (
 --
 
 INSERT INTO `garbageinfo` (`Id`, `name`, `mobile`, `email`, `wastetype`, `location`, `locationdescription`, `file`, `date`, `status`) VALUES
-(77, 'janak bista', '9828912874', 'janak.bista@sagarmatha.edu.np', 'mixed,', 'Ktm', 'mmmmmm', 'Capture.PNG', '12:11pm ,\r\n Sunday 25th April 2021', 'Completed'),
+(77, 'janak bista', '9828912874', 'janak.bista@sagarmatha.edu.np', 'mixed,', 'Ktm', 'mmmmmm', 'Capture.png', '12:11pm ,\r\n Sunday 25th April 2021', 'Completed'),
 (102, 'janak bist', '9848726051', 'bistajanak303@gmail.com', 'mixed,', 'Ktm', 'Pulchowk campus', 'kalankiwaste.jpg', '4:21pm ,\r\n Thursday 22nd July 2021', 'Completed'),
 (103, 'janak bist', '98487260511', 'bistajanak303@gmail.com', 'mixed,', 'sanepa', 'near sagramatha college', 'wasteimg.jpg', '7:47pm ,\r\n Friday 23rd July 2021', 'Pending'),
 (105, 'janak bist', '9848726051', 'bistajanak303@gmail.com', 'inorganic,', 'Bktpur', 'bhaktapur durbar square', 'ktmwaste.jpg', '7:50pm ,\r\n Friday 23rd July 2021', 'Pending'),

@@ -195,7 +195,7 @@ if($email != false && $password != false){
 </head>
 <body>
       <!-- Favicons -->
-  <link href="adminsignup/Capture.PNG" rel="icon">
+  <link href="adminsignup/Capture.png" rel="icon">
 
 <div id="throbber" style="display:none; min-height:120px;"></div>
 <div id="noty-holder"></div>
@@ -211,7 +211,7 @@ if($email != false && $password != false){
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="http://localhost/EmailVerification/index.html">
-                <img src="Capture.PNG" alt="LOGO"heigth='50'width='50'class='logo1'>
+                <img src="Capture.png" alt="LOGO"heigth='50'width='50'class='logo1'>
             </a>
         </div>
         <!-- Top Menu Items -->
